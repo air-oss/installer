@@ -6,8 +6,8 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className="h-full">
-
+    <div className="content-center text-center text-white bg-neutral-800 w-3/4">
+      Test
     </div>
   )
 }
