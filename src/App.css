@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Poppins:wght@500&family=Roboto:wght@500&display=swap');
+
 body {
   background: url("https://images.unsplash.com/photo-1574610758891-5b809b6e6e2e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1476&q=80");
   background-color: #cccccc; /* Used if the image is unavailable */
@@ -5,4 +7,18 @@ body {
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.poppins {
+  font-family: 'Anton', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+.anton {
+  font-family: 'Anton', sans-serif;
+}
+
+.roboto {
+  font-family: 'Roboto', sans-serif;
 }
